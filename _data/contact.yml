@@ -1,0 +1,14 @@
+location:
+  address: 380-394 Docklands Dr, Docklands VIC 3008
+  google_maps: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.011458109453!2d144.9410529!3d-37.8132006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d42e81fc281%3A0x22d3bb06fd759d46!2sCafe%20Bourgeois!5e0!3m2!1sen!2sau!4v1669618929990!5m2!1sen!2sau
+  locale: en-AU
+
+socials:
+  - platform: Facebook
+    link: https://www.facebook.com/Bourjeois.coffee/
+  - platform: Instagram
+    link: https://www.instagram.com
+  - platform: email
+    link: mailto:example@example.com
+  - platform: phone
+    link: tel:0492 817 822
